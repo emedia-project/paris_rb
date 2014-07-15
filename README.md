@@ -4,7 +4,7 @@ Paris.rb is a plugin for [Paris](https://github.com/emedia-project/paris), allow
 
 ## Installation
 
-In your Paris project, add the following dependency in your `rebar.conf` :
+In your Paris project, add the following dependency in your `rebar.config` :
 
 ```erlang
 {paris_rb, ".*", {git, "https://github.com/emedia-project/paris_rb", "master"}}
