@@ -1,6 +1,6 @@
 {name, paris_rb}.
 {rebar, [
-  {add, []}]},
+  {add, []},
   {remove, []}
 ]}.
 {mv_args, [
